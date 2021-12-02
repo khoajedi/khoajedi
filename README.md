@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khoa "Jedi" Vo
+- 👋 Hi, I’m Khoa "Jedi" Vo.
 - 👀 I’m interested in Computer Vision, Blockchain, and Flutter
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on interesting projects
